@@ -7,13 +7,16 @@
 ## Video
 
 - [【麻省理工公开课】区块链和货币简介](https://www.bilibili.com/video/BV1jZ4y1N727)
-
+- [北京大学肖臻老师《区块链技术与应用》公开课 ](https://www.bilibili.com/video/BV1Vt411X7JF?from=search&seid=5948099838146731240
+)
+- [Dapp University](https://www.youtube.com/c/DappUniversity)
 ## Web
 
 - [Lightspeed ：Web3/Crypto/Metaverse 生态系统指南](https://techflowpost.mirror.xyz/mHuclQXfKGIhHS8HfN1WhFVT3QxX71rNOxBtbyY5s0k)
 - [Working in Web3: The Handbook](https://web3.smsunarto.com/)
 - [Library of Web3](https://www.alexdphan.com/research/library-of-web3)
-
+- [web3 university](https://www.web3.university/)
+- [ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list)
 ## 资讯网站
 
 - [web3caff](https://web3caff.com/zh/)
